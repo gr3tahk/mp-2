@@ -1,7 +1,7 @@
 import DisneyCharacters from "./components/DisneyCharacters.tsx";
 import styled from "styled-components";
 import {useEffect, useState} from "react";
-import {Character} from "./interfaces/Characters.ts";
+import {type Character} from "./interfaces/Characters.ts";
 
 const ParentDiv=styled.div`
     width: 80vw;
