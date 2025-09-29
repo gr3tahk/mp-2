@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import {Character} from "../interfaces/Charcters.ts";
+import {Character} from "../interfaces/Characters";
 
 const AllCharsDiv=styled.div`
     display: flex;
